@@ -1,0 +1,147 @@
+﻿*{
+  margin:0px;
+  padding:0px;
+}
+body{
+  background-image:url('backimg.jpg');
+  background-repeat:no-repeat;
+  background-size:100% 100%; 
+  background-attachment:fixed;
+  background-position:center;
+  font-family:MS Reference Sans Serif;
+}
+header{
+  font-size:21px;
+  color:#000099;
+  text-align:center;
+  text-shadow: 2px 2px #00004d;
+  width:100%;
+}
+.h1{
+  color:#990000;
+ background-color:light-gray;
+ text-shadow: 2px 2px #000000;
+}
+.nav a{
+  text-decoration:none;
+  font-size:20px;
+  color:#FFD700;
+  padding:25px;
+}
+.nav a:hover{
+  background-color:transparent;
+  color:#ffff80;
+}
+.info{
+  font-family:System;
+  font-size:25px;
+  color:#edf0f1;
+  text-align:center;
+  text-shadow: 2px 2px #000000;
+}
+.name{
+  color:#edf0f1;
+  text-align:center;
+  font-size:30px;
+  text-shadow: 0 2px 2px #000000, 0 2px 2px black;
+}
+.img{
+  box-shadow:5px 5px black;
+  border:1px groove black; 
+}
+footer{
+ 
+ background-color: black;
+ color: #fff;
+
+ padding: 20px 0;
+ 
+ font-size: 20px;
+ 
+ align:center;
+ padding:10px;
+}
+
+.footer-container{
+ text-align:center;
+}
+.fa {
+  padding: 5px;
+  font-size:20px;
+  width: 30px;
+  text-align:center;
+  text-decoration: none;
+  color:white;
+  text-spacing:5px;
+}
+.fa:hover {
+  opacity:0.6;
+}
+.fa-facebook {
+  background: transparent;
+  color: white;
+  text-decoration:none;
+  border-radius: 50%;
+  border-color:transparent;
+}
+.fa-twitter {
+  background: transparent;
+  color: white;
+  text-decoration:none;
+  border-radius: 50%;
+  border-color:transparent;
+}
+.fa-instagram {
+  background: transparent;
+  color: white;
+  text-decoration:none;
+  border-radius: 50%;
+  border-color:transparent;
+}
+.fa-youtube {
+  background: transparent;
+  color: white;
+  text-decoration:none;
+  border-radius: 50%;
+  border-color:transparent;
+}
+.fa-search{
+  background: transparent;
+  color: white;
+  text-decoration:none;
+  border-radius: 50%;
+  border-color:transparent;
+}
+.hr{
+  border-style:goover;
+}
+.about{
+ text-decoration:none;
+ color:#edf0f1;
+ align:left;
+ border-bottom: 1.5px solid red;
+ border-radius:1px;
+}
+a:hover{
+ background-color:black;
+}
+.goals{
+ color:#FFD700;
+ font-size:30px
+}
+.copy{
+ color:#edf0f1;
+}
+.copy1{
+ font-family:Courier;
+ word-spacing: -1px;
+}
+.nav input[type=text]{
+ border-radius:20px;
+ border:none;
+ font-size:20px;
+ background: rgba(242, 242, 242, 0.3);;
+}
+.patner{
+ text-decoration:none;
+}
